@@ -1,0 +1,22 @@
+## Hi there 👋
+
+I’m a frontend developer who enjoys turning complex ideas into clean, intuitive interfaces. Over the past 5 years, I’ve worked on everything from MVPs to large-scale systems, with a focus on building reliable, fast, and maintainable web apps.
+
+Right now I’m working at Soramitsu, where I develop a blockchain explorer platform. One of the things I’m most proud of is how we improved user engagement by 30% through thoughtful design and performance tuning — including cutting the initial page load time in half. Before that, I spent a few years at JetBrains, contributing to the JetBrains Space. I joined as an intern and eventually became a senior developer. Along the way, I implemented real-time collaboration in the documents module, optimized chat and task rendering for better performance, and enhanced Markdown support in the knowledge base.
+
+### Here’s what I work with regularly:
+* ✅ **Frameworks**: Vue.js, Nuxt.js, Pinia, Vuex, Vue Router
+* ✅ **Languages**: JavaScript, TypeScript, HTML, CSS, SASS, SCSS, Rust
+* ✅ **Tooling**: Vite, Webpack, SPA, SSR, ESLint, Prettier, Linux, Docker
+* ✅ **Testing**: Vitest, Jest, CI/CD, Storybook, Playwright, Cypress
+* ✅ **Other**: Git, GitHub, GraphQL, WebSocket, WebRTC, REST API, Agile, English
+
+I’ve always been drawn to frontend development because it’s where users actually experience a product. There’s something deeply satisfying about solving real problems and seeing your work come to life on screen.
+
+I care a lot about writing clean, understandable code, collaborating effectively in a team, and continuously improving the product and the process.
+
+### If you’d like to chat or work together, feel free to reach me out:
+* **Email**: [dmitry.murzin.dev@gmail.com](mailto:dmitry.murzin.dev@gmail.com)
+* **Linkedin**: [@dmitry-murzin-dev](https://www.linkedin.com/in/dmitry-murzin-dev/)
+* **Telegram**: [@dmitry_murzin_dev](https://t.me/dmitry_murzin_dev)
+* **Whatsapp**: [+447575889905](https://wa.me/+447575889905)
